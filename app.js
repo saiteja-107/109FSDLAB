@@ -22,7 +22,7 @@ connect
   console.log("Error :" +err)
 })
 
-
+//thiw sfjnsdioagnos
 var app = express();
 
 // view engine setup
